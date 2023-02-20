@@ -1,4 +1,4 @@
-# DS_Task1
+# Email Registration
 Registration and Login system using Python, file handling
 
 Stage -- 1 
